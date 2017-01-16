@@ -1,0 +1,23 @@
+P{
+	$font-size-base: 					14px;
+$line-height-base: 					1.3;
+
+
+$font-family-sans-serif: 			'Ubuntu', sans-serif;
+$font-family-serif: 				'Times', serif;
+
+
+$base-background-color: 			#fff;
+$base-color: 						#1f2427;
+
+
+$shell-max-width: 					940px;
+$shell-large-max-width:				960px;
+$shell-small-max-width: 			640px;
+
+
+$breakpoint-small-desktop: 			@media (max-width: 1200px);
+$breakpoint-tablet-portrait: 		@media (max-width: 959px);
+$breakpoint-mobile: 				@media (max-width: 767px);
+$breakpoint-mobile-portrait: 		@media (max-width: 479px);
+}
